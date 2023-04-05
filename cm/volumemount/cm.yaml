@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  a: america
+  b: bengal
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: first-cm
